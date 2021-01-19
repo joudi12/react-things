@@ -1,3 +1,14 @@
+# React II
+## Time Estimate ;)
+## Estimate of time needed to complete: 2 H
+- start : 2 pm
+- finish : 4 pm
+the repo link :https://github.com/joudi12/react-things
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
